@@ -113,11 +113,11 @@ Strategic realignment of budget and validation filters can yield a sustainable *
 
 **1. Clone this repository:**
    ```bash
-   git clone https://github.com/indu-explores-data/lead-quality-analysis.git
+   git clone https://github.com/indu-explores-data/Lead-Quality-Analysis.git
    ```
 **2. Navigate to the project folder**
    ```
-   cd lead-quality-analysis
+   cd Lead-Quality-Analysis
    ```
 **3. Install required dependencies:**
    ```
