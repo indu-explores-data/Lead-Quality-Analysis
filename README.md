@@ -38,6 +38,7 @@ The goal is to understand **lead quality trends, key influencing factors, and co
 ## 📊 Visualizations
 
 Below are the main visual insights derived from the analysis:
+
 ---
 
 ### **1. Lead Outcome Distribution**
