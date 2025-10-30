@@ -43,56 +43,29 @@ Below are the main visual insights derived from the analysis:
 
 ### **1. Lead Outcome Distribution**
 
-![Lead Outcome Distribution](Lead%20Outcome%20Distribution.png)  
+![Lead Outcome Distribution](./images/Lead%20Outcome%20Distribution.png)  
 *Distribution of leads categorized as Good, Bad, or Closed.*
 
 ---
 
 ### **2. Lead Quality Trends Over Time**
 
-![Lead Quality Trends Over Time](Lead%20Quality%20Trends%20Over%20Time.png)  
+![Lead Quality Trends Over Time](./images/Lead%20Quality%20Trends%20Over%20Time.png)  
 *Trend showing how lead quality evolved over time.*
 
 ---
 
 ### **3. Top Widgets by Good Rate**
 
-![Top Widgets by Good Rate](Top%20Widgets%20by%20Good%20Rate.png)  
+![Top Widgets by Good Rate](./images/Top%20Widgets%20by%20Good%20Rate.png)  
 *Top-performing widgets ranked by percentage of Good leads.*
 
 ---
 
 ### **4. CPL vs Quality Trade-Off (Simulation)**
 
-![CPL vs Quality Trade Off (Simulation)](CPL%20vs%20Quality%20Trade%20Off%20(Simulation).png)  
+![CPL vs Quality Trade Off (Simulation)](./images/CPL%20vs%20Quality%20Trade%20Off%20(Simulation).png)  
 *Simulation showing trade-off between CPL and overall lead quality improvement.*
-
-## 📊 Visualizations
-
-### **1. Lead Outcome Distribution**
-![Lead Outcome Distribution](./Lead%20Outcome%20Distribution.png)  
-*Distribution of leads categorized as Good, Bad, or Closed.*
-
----
-
-### **2. Lead Quality Trends Over Time**
-![Lead Quality Trends Over Time](./Lead%20Quality%20Trends%20Over%20Time.png)  
-*Trend showing how lead quality evolved over time.*
-
----
-
-### **3. Top Widgets by Good Rate**
-![Top Widgets by Good Rate](./Top%20Widgets%20by%20Good%20Rate.png)  
-*Top-performing widgets ranked by percentage of Good leads.*
-
----
-
-### **4. CPL vs Quality Trade-Off (Simulation)**
-![CPL vs Quality Trade Off (Simulation)](./CPL%20vs%20Quality%20Trade%20Off%20(Simulation).png)  
-*Simulation showing trade-off between CPL and overall lead quality improvement.*
-
----
-
 
 ---
 
